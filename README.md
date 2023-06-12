@@ -8,6 +8,8 @@ O projeto pode incluir a criação de fluxos de trabalho personalizados, criaç�
 
 Para garantir a eficiência da solução criada, é importante seguir todas as etapas do processo de desenvolvimento e implantação, como a criação de Plugins, Actions e  Workflow Assembly.
 
+## Roberto Trugilho Moreira<br>Em desenvolvimento...
+
 # Comece a usar o Saint Systems Microsoft Dynamics 365 SDK para PHP
 
 _This SDK is currently in preview. Please continue to provide [feedback](https://github.com/saintsystems/dynamics-sdk-php/issues/new) as we iterate towards a production-supported library._
